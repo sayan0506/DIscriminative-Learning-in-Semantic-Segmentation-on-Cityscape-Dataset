@@ -14,3 +14,5 @@ Train Cityscape data using Pretrained Resnet 18 model using Discriminative Learn
 **5. [Image-Segmentation-with-UNet-PyTorch](https://www.kaggle.com/gokulkarthik/image-segmentation-with-unet-pytorch)**
 
 **6. [Image-Segmentation-with-UNet-PyTorch](https://www.kaggle.com/gokulkarthik/image-segmentation-with-unet-pytorch)**
+
+**7. [Discriminative-learning-rates-PyTorch](https://github.com/vdouet/Discriminative-learning-rates-PyTorch)**
