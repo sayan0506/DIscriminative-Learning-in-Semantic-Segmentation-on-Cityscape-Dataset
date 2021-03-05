@@ -10,3 +10,5 @@ Train Cityscape data using Pretrained Resnet 18 model using Discriminative Learn
 **3. [Discriminative Fine-Tuning](https://paperswithcode.com/method/discriminative-fine-tuning)**
 
 **4. [ColabCode: Deploying Machine Learning Models From Google Colab](https://towardsdatascience.com/colabcode-deploying-machine-learning-models-from-google-colab-54e0d37a7b09)**
+
+**5. [Image-Segmentation-with-UNet-PyTorch](https://www.kaggle.com/gokulkarthik/image-segmentation-with-unet-pytorch)**
