@@ -17,3 +17,5 @@ Train Cityscape data using Pretrained Resnet 18 model using Discriminative Learn
 
 **7. [semantic_segmentation_cityscape](https://github.com/SatyamGaba/semantic_segmentation_cityscape)**
 
+**8. [Guide to Pytorch Learning Rate Scheduling](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling)**
+
