@@ -1,6 +1,17 @@
 # Train-Cityscape-data-using-Pretrained-Resnet-18-model-using-Discriminative-Learning
 Train Cityscape data using Pretrained Resnet 18 model using Discriminative Learning using Pytorch
 
+## Dataset:
+
+**[Cityscapes Image Pairs](https://www.kaggle.com/dansbecker/cityscapes-image-pairs)**
+
+## Implementation:
+
+The Resnet18 pretrained model was used to do the semantic segmentation task.
+
+
+
+
 **References:**
 
 **1. [TORCHVISION.DATASETS](https://pytorch.org/vision/0.8/datasets.html#cityscapes)**
