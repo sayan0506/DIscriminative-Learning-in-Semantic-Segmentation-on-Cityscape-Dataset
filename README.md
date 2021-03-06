@@ -9,11 +9,7 @@ Train Cityscape data using Pretrained Resnet 18 model using Discriminative Learn
 
 * The Resnet18 pretrained model was used to do the semantic segmentation task using Pytorch.
 * Due to lack of time I couldn't extend the implementation in FastAPI
-* The detailed implementation can be found from the [colab notebook]() along with the documented step by step implementation guide.
-* 
-
-
-
+* The detailed implementation can be found from the [colab notebook](https://github.com/sayan0506/DIscriminative-Learning-in-Semantic-Segmentation-on-Cityscape-Dataset/blob/main/Pretrained_Resnet_18_with_Discriminative_learning.ipynb) along with the documented step by step implementation guide.
 
 **References:**
 
