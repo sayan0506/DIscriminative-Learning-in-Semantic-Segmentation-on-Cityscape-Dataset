@@ -19,3 +19,6 @@ Train Cityscape data using Pretrained Resnet 18 model using Discriminative Learn
 
 **8. [Guide to Pytorch Learning Rate Scheduling](https://www.kaggle.com/isbhargav/guide-to-pytorch-learning-rate-scheduling)**
 
+**9. [Discriminative Fine-Tuning](https://paperswithcode.com/method/discriminative-fine-tuning)**
+
+**10. [Differential Learning Rates](https://blog.slavv.com/differential-learning-rates-59eff5209a4f)**
