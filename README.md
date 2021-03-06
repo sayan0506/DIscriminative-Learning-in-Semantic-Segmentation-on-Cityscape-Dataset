@@ -23,4 +23,4 @@ Train Cityscape data using Pretrained Resnet 18 model using Discriminative Learn
 
 **10. [Differential Learning Rates](https://blog.slavv.com/differential-learning-rates-59eff5209a4f)**
 
-**11. [PyTorch learning rate finder](https://github.com/davidtvs/pytorch-lr-finder)
+**11. [PyTorch learning rate finder](https://github.com/davidtvs/pytorch-lr-finder)**
