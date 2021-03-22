@@ -13,6 +13,8 @@ Train Cityscape data using Pretrained Resnet 18 model using Discriminative Learn
 
 **References:**
 
+**1A. [Download Datasets from Kaggle on Colab](https://www.kaggle.com/general/74235)**
+
 **1. [TORCHVISION.DATASETS](https://pytorch.org/vision/0.8/datasets.html#cityscapes)**
 
 **2. [TRANSFER LEARNING FOR COMPUTER VISION TUTORIAL](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html#load-data)**
